@@ -1,6 +1,8 @@
 # ReactCoin
 React project developed on Udilia course.
 
+<img src="images/demo1.PNG" />
+
 ### Prerequisites
 
 To run the project, you'll need to install:
